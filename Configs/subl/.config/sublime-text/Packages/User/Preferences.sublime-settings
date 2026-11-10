@@ -1,0 +1,18 @@
+{
+	"ignored_packages": [
+	],
+	"vintage_start_in_command_mode": true,
+	"vintage_use_clipboard": false,
+	"vintage_ctrl_keys": false,
+	"relative_line_numbers": true,
+
+	"color_scheme": "Rosé Pine.sublime-color-scheme",
+	"theme": "Rosé Pine.sublime-theme",
+	"index_files": false,
+	"font_face": "SFMono Nerd Font",
+	"font_size": 14,
+	"default_font_size": 14,
+	"sidebar_on_right": true,
+	"hardware_acceleration": "opengl",
+	"terminal_command": "ptyxis --new-window --working-directory \"$dir\"",
+}

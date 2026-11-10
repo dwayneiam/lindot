@@ -1,0 +1,26 @@
+{
+	"installed_packages":
+	[
+		"ColorConverter",
+		"ColorHints",
+		"Emmet",
+		"Gomod",
+		"LSP",
+		"LSP-bash",
+		"LSP-css",
+		"LSP-gopls",
+		"LSP-html",
+		"LSP-json",
+		"LSP-lua",
+		"LSP-marksman",
+		"LSP-ruff",
+		"LSP-taplo",
+		"LSP-ty",
+		"LSP-typescript",
+		"Package Control",
+		"Theme - Rose Pine",
+	],
+	"in_process_packages":
+	[
+	],
+}

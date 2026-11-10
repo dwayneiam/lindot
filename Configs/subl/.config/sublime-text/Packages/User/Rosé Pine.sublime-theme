@@ -1,0 +1,16 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+	"variables":
+	{
+		"font_size_sm": 14,
+	},
+	"rules":
+	[
+		// {
+		// 	"class": "label_control",
+		// 	"parents": [{"class": "status_bar"}],
+		// 	"font.size": 12,
+		// }
+
+	]
+}
